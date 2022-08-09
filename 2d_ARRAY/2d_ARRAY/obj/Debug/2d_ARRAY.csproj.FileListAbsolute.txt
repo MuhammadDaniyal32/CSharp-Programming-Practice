@@ -1,0 +1,6 @@
+C:\Users\asp.APTECHNK\Desktop\C# revised\2d_ARRAY\2d_ARRAY\bin\Debug\2d_ARRAY.exe.config
+C:\Users\asp.APTECHNK\Desktop\C# revised\2d_ARRAY\2d_ARRAY\bin\Debug\2d_ARRAY.exe
+C:\Users\asp.APTECHNK\Desktop\C# revised\2d_ARRAY\2d_ARRAY\bin\Debug\2d_ARRAY.pdb
+C:\Users\asp.APTECHNK\Desktop\C# revised\2d_ARRAY\2d_ARRAY\obj\Debug\2d_ARRAY.csprojResolveAssemblyReference.cache
+C:\Users\asp.APTECHNK\Desktop\C# revised\2d_ARRAY\2d_ARRAY\obj\Debug\2d_ARRAY.exe
+C:\Users\asp.APTECHNK\Desktop\C# revised\2d_ARRAY\2d_ARRAY\obj\Debug\2d_ARRAY.pdb

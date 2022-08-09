@@ -1,0 +1,8 @@
+C:\Users\asp.APTECHNK\Desktop\Cubing_Task\Cubing_Task\bin\Debug\Cubing_Task.exe.config
+C:\Users\asp.APTECHNK\Desktop\Cubing_Task\Cubing_Task\bin\Debug\Cubing_Task.exe
+C:\Users\asp.APTECHNK\Desktop\Cubing_Task\Cubing_Task\bin\Debug\Cubing_Task.pdb
+C:\Users\asp.APTECHNK\Desktop\Cubing_Task\Cubing_Task\obj\Debug\Cubing_Task.csprojResolveAssemblyReference.cache
+C:\Users\asp.APTECHNK\Desktop\Cubing_Task\Cubing_Task\obj\Debug\Cubing_Task.exe
+C:\Users\asp.APTECHNK\Desktop\Cubing_Task\Cubing_Task\obj\Debug\Cubing_Task.pdb
+C:\Users\asp\Desktop\Cubing_Task\Cubing_Task\bin\Debug\Cubing_Task.exe.config
+C:\Users\asp\Desktop\Cubing_Task\Cubing_Task\obj\Debug\Cubing_Task.pdb

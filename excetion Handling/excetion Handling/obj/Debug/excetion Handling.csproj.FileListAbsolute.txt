@@ -1,0 +1,6 @@
+C:\Users\asp\Desktop\C#\daniyal CSharp\excetion Handling\excetion Handling\bin\Debug\excetion Handling.exe.config
+C:\Users\asp\Desktop\C#\daniyal CSharp\excetion Handling\excetion Handling\bin\Debug\excetion Handling.exe
+C:\Users\asp\Desktop\C#\daniyal CSharp\excetion Handling\excetion Handling\bin\Debug\excetion Handling.pdb
+C:\Users\asp\Desktop\C#\daniyal CSharp\excetion Handling\excetion Handling\obj\Debug\excetion Handling.csprojResolveAssemblyReference.cache
+C:\Users\asp\Desktop\C#\daniyal CSharp\excetion Handling\excetion Handling\obj\Debug\excetion Handling.exe
+C:\Users\asp\Desktop\C#\daniyal CSharp\excetion Handling\excetion Handling\obj\Debug\excetion Handling.pdb

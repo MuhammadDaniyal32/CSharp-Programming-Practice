@@ -1,0 +1,6 @@
+C:\Users\asp\Desktop\umar\lamda exp\lamda exp\bin\Debug\lamda exp.exe.config
+C:\Users\asp\Desktop\umar\lamda exp\lamda exp\bin\Debug\lamda exp.exe
+C:\Users\asp\Desktop\umar\lamda exp\lamda exp\bin\Debug\lamda exp.pdb
+C:\Users\asp\Desktop\umar\lamda exp\lamda exp\obj\Debug\lamda exp.csprojResolveAssemblyReference.cache
+C:\Users\asp\Desktop\umar\lamda exp\lamda exp\obj\Debug\lamda exp.exe
+C:\Users\asp\Desktop\umar\lamda exp\lamda exp\obj\Debug\lamda exp.pdb

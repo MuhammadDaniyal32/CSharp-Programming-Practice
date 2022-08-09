@@ -1,0 +1,16 @@
+C:\Users\asp.APTECHNK\Desktop\Counting_Vowels\Counting_Vowels\bin\Debug\Counting_Vowels.exe.config
+C:\Users\asp.APTECHNK\Desktop\Counting_Vowels\Counting_Vowels\obj\Debug\Counting_Vowels.csprojResolveAssemblyReference.cache
+C:\Users\asp.APTECHNK\Desktop\Counting_Vowels\Counting_Vowels\bin\Debug\Counting_Vowels.exe
+C:\Users\asp.APTECHNK\Desktop\Counting_Vowels\Counting_Vowels\bin\Debug\Counting_Vowels.pdb
+C:\Users\asp.APTECHNK\Desktop\Counting_Vowels\Counting_Vowels\obj\Debug\Counting_Vowels.exe
+C:\Users\asp.APTECHNK\Desktop\Counting_Vowels\Counting_Vowels\obj\Debug\Counting_Vowels.pdb
+\\server1\Students New Storage\1808C1\Tayyab(DISM)\Csharp\Counting_Vowels\Counting_Vowels\bin\Debug\Counting_Vowels.exe.config
+\\server1\Students New Storage\1808C1\Tayyab(DISM)\Csharp\Counting_Vowels\Counting_Vowels\obj\Debug\Counting_Vowels.pdb
+D:\C# Language Practice\C#\Counting_Vowels\Counting_Vowels\bin\Debug\Counting_Vowels.exe.config
+D:\C# Language Practice\C#\Counting_Vowels\Counting_Vowels\bin\Debug\Counting_Vowels.exe
+D:\C# Language Practice\C#\Counting_Vowels\Counting_Vowels\bin\Debug\Counting_Vowels.pdb
+D:\C# Language Practice\C#\Counting_Vowels\Counting_Vowels\obj\Debug\Counting_Vowels.csproj.AssemblyReference.cache
+D:\C# Language Practice\C#\Counting_Vowels\Counting_Vowels\obj\Debug\Counting_Vowels.csproj.SuggestedBindingRedirects.cache
+D:\C# Language Practice\C#\Counting_Vowels\Counting_Vowels\obj\Debug\Counting_Vowels.csproj.CoreCompileInputs.cache
+D:\C# Language Practice\C#\Counting_Vowels\Counting_Vowels\obj\Debug\Counting_Vowels.exe
+D:\C# Language Practice\C#\Counting_Vowels\Counting_Vowels\obj\Debug\Counting_Vowels.pdb

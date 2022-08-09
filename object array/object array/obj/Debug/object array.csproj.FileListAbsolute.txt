@@ -1,0 +1,6 @@
+C:\Users\asp\Desktop\C#\daniyal CSharp\object array\object array\bin\Debug\object array.exe.config
+C:\Users\asp\Desktop\C#\daniyal CSharp\object array\object array\bin\Debug\object array.exe
+C:\Users\asp\Desktop\C#\daniyal CSharp\object array\object array\bin\Debug\object array.pdb
+C:\Users\asp\Desktop\C#\daniyal CSharp\object array\object array\obj\Debug\object array.csprojResolveAssemblyReference.cache
+C:\Users\asp\Desktop\C#\daniyal CSharp\object array\object array\obj\Debug\object array.exe
+C:\Users\asp\Desktop\C#\daniyal CSharp\object array\object array\obj\Debug\object array.pdb

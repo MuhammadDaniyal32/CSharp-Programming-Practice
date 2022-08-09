@@ -1,0 +1,6 @@
+C:\Users\asp\Desktop\crystal reports\Xml_console\Xml_console\bin\Debug\Xml_console.exe.config
+C:\Users\asp\Desktop\crystal reports\Xml_console\Xml_console\bin\Debug\Xml_console.exe
+C:\Users\asp\Desktop\crystal reports\Xml_console\Xml_console\bin\Debug\Xml_console.pdb
+C:\Users\asp\Desktop\crystal reports\Xml_console\Xml_console\obj\Debug\Xml_console.csprojResolveAssemblyReference.cache
+C:\Users\asp\Desktop\crystal reports\Xml_console\Xml_console\obj\Debug\Xml_console.exe
+C:\Users\asp\Desktop\crystal reports\Xml_console\Xml_console\obj\Debug\Xml_console.pdb

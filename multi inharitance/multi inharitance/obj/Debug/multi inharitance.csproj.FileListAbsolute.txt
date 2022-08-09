@@ -1,0 +1,5 @@
+C:\Users\asp\Desktop\C#\daniyal CSharp\multi inharitance\multi inharitance\bin\Debug\multi inharitance.exe.config
+C:\Users\asp\Desktop\C#\daniyal CSharp\multi inharitance\multi inharitance\bin\Debug\multi inharitance.exe
+C:\Users\asp\Desktop\C#\daniyal CSharp\multi inharitance\multi inharitance\bin\Debug\multi inharitance.pdb
+C:\Users\asp\Desktop\C#\daniyal CSharp\multi inharitance\multi inharitance\obj\Debug\multi inharitance.exe
+C:\Users\asp\Desktop\C#\daniyal CSharp\multi inharitance\multi inharitance\obj\Debug\multi inharitance.pdb

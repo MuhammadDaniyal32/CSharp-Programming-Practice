@@ -1,0 +1,6 @@
+C:\Users\asp\Desktop\umar\Martices\Martices\bin\Debug\Martices.exe.config
+C:\Users\asp\Desktop\umar\Martices\Martices\obj\Debug\Martices.csprojResolveAssemblyReference.cache
+C:\Users\asp\Desktop\umar\Martices\Martices\bin\Debug\Martices.exe
+C:\Users\asp\Desktop\umar\Martices\Martices\bin\Debug\Martices.pdb
+C:\Users\asp\Desktop\umar\Martices\Martices\obj\Debug\Martices.exe
+C:\Users\asp\Desktop\umar\Martices\Martices\obj\Debug\Martices.pdb

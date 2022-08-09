@@ -1,0 +1,6 @@
+C:\Users\asp\Desktop\jagged array\jagged array\bin\Debug\jagged array.exe.config
+C:\Users\asp\Desktop\jagged array\jagged array\bin\Debug\jagged array.exe
+C:\Users\asp\Desktop\jagged array\jagged array\bin\Debug\jagged array.pdb
+C:\Users\asp\Desktop\jagged array\jagged array\obj\Debug\jagged array.csprojResolveAssemblyReference.cache
+C:\Users\asp\Desktop\jagged array\jagged array\obj\Debug\jagged array.exe
+C:\Users\asp\Desktop\jagged array\jagged array\obj\Debug\jagged array.pdb

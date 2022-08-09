@@ -1,0 +1,6 @@
+C:\Users\asp\Desktop\C#\daniyal CSharp\singal inharitance\singal inharitance\bin\Debug\singal inharitance.exe.config
+C:\Users\asp\Desktop\C#\daniyal CSharp\singal inharitance\singal inharitance\bin\Debug\singal inharitance.exe
+C:\Users\asp\Desktop\C#\daniyal CSharp\singal inharitance\singal inharitance\bin\Debug\singal inharitance.pdb
+C:\Users\asp\Desktop\C#\daniyal CSharp\singal inharitance\singal inharitance\obj\Debug\singal inharitance.csprojResolveAssemblyReference.cache
+C:\Users\asp\Desktop\C#\daniyal CSharp\singal inharitance\singal inharitance\obj\Debug\singal inharitance.exe
+C:\Users\asp\Desktop\C#\daniyal CSharp\singal inharitance\singal inharitance\obj\Debug\singal inharitance.pdb

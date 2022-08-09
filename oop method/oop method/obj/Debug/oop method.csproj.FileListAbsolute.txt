@@ -1,0 +1,6 @@
+C:\Users\asp\Desktop\C#\daniyal CSharp\oop method\oop method\bin\Debug\oop method.exe.config
+C:\Users\asp\Desktop\C#\daniyal CSharp\oop method\oop method\bin\Debug\oop method.exe
+C:\Users\asp\Desktop\C#\daniyal CSharp\oop method\oop method\bin\Debug\oop method.pdb
+C:\Users\asp\Desktop\C#\daniyal CSharp\oop method\oop method\obj\Debug\oop method.csprojResolveAssemblyReference.cache
+C:\Users\asp\Desktop\C#\daniyal CSharp\oop method\oop method\obj\Debug\oop method.exe
+C:\Users\asp\Desktop\C#\daniyal CSharp\oop method\oop method\obj\Debug\oop method.pdb

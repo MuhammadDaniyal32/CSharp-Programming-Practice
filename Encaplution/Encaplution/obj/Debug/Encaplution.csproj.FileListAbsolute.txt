@@ -1,0 +1,5 @@
+C:\Users\asp\Desktop\C#\daniyal CSharp\Encaplution\Encaplution\bin\Debug\Encaplution.exe.config
+C:\Users\asp\Desktop\C#\daniyal CSharp\Encaplution\Encaplution\bin\Debug\Encaplution.exe
+C:\Users\asp\Desktop\C#\daniyal CSharp\Encaplution\Encaplution\bin\Debug\Encaplution.pdb
+C:\Users\asp\Desktop\C#\daniyal CSharp\Encaplution\Encaplution\obj\Debug\Encaplution.exe
+C:\Users\asp\Desktop\C#\daniyal CSharp\Encaplution\Encaplution\obj\Debug\Encaplution.pdb

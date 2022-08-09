@@ -1,0 +1,6 @@
+C:\Users\asp\Desktop\C#\daniyal CSharp\task age\task age\bin\Debug\task age.exe.config
+C:\Users\asp\Desktop\C#\daniyal CSharp\task age\task age\bin\Debug\task age.exe
+C:\Users\asp\Desktop\C#\daniyal CSharp\task age\task age\bin\Debug\task age.pdb
+C:\Users\asp\Desktop\C#\daniyal CSharp\task age\task age\obj\Debug\task age.csprojResolveAssemblyReference.cache
+C:\Users\asp\Desktop\C#\daniyal CSharp\task age\task age\obj\Debug\task age.exe
+C:\Users\asp\Desktop\C#\daniyal CSharp\task age\task age\obj\Debug\task age.pdb

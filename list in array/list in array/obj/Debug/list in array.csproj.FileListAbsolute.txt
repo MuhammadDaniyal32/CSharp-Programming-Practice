@@ -1,0 +1,5 @@
+C:\Users\asp\Desktop\C#\daniyal CSharp\list in array\list in array\bin\Debug\list in array.exe.config
+C:\Users\asp\Desktop\C#\daniyal CSharp\list in array\list in array\bin\Debug\list in array.exe
+C:\Users\asp\Desktop\C#\daniyal CSharp\list in array\list in array\bin\Debug\list in array.pdb
+C:\Users\asp\Desktop\C#\daniyal CSharp\list in array\list in array\obj\Debug\list in array.exe
+C:\Users\asp\Desktop\C#\daniyal CSharp\list in array\list in array\obj\Debug\list in array.pdb

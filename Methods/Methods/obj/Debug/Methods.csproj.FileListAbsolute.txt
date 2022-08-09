@@ -1,0 +1,6 @@
+C:\Users\asp\Desktop\C#\daniyal CSharp\Methods\Methods\bin\Debug\Methods.exe.config
+C:\Users\asp\Desktop\C#\daniyal CSharp\Methods\Methods\bin\Debug\Methods.exe
+C:\Users\asp\Desktop\C#\daniyal CSharp\Methods\Methods\bin\Debug\Methods.pdb
+C:\Users\asp\Desktop\C#\daniyal CSharp\Methods\Methods\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+C:\Users\asp\Desktop\C#\daniyal CSharp\Methods\Methods\obj\Debug\Methods.exe
+C:\Users\asp\Desktop\C#\daniyal CSharp\Methods\Methods\obj\Debug\Methods.pdb

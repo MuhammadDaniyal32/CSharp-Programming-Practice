@@ -1,0 +1,6 @@
+C:\Users\asp\Desktop\C#\daniyal CSharp\Namespaces\Namespaces\bin\Debug\Namespaces.exe.config
+C:\Users\asp\Desktop\C#\daniyal CSharp\Namespaces\Namespaces\obj\Debug\Namespaces.csprojResolveAssemblyReference.cache
+C:\Users\asp\Desktop\C#\daniyal CSharp\Namespaces\Namespaces\bin\Debug\Namespaces.exe
+C:\Users\asp\Desktop\C#\daniyal CSharp\Namespaces\Namespaces\bin\Debug\Namespaces.pdb
+C:\Users\asp\Desktop\C#\daniyal CSharp\Namespaces\Namespaces\obj\Debug\Namespaces.exe
+C:\Users\asp\Desktop\C#\daniyal CSharp\Namespaces\Namespaces\obj\Debug\Namespaces.pdb

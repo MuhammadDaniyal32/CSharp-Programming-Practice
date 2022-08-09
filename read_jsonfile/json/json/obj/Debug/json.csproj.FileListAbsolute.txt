@@ -1,0 +1,12 @@
+C:\Users\asp.APTECHNK\Desktop\json daniyal\json\json\bin\Debug\json.exe.config
+C:\Users\asp.APTECHNK\Desktop\json daniyal\json\json\bin\Debug\json.exe
+C:\Users\asp.APTECHNK\Desktop\json daniyal\json\json\bin\Debug\json.pdb
+C:\Users\asp.APTECHNK\Desktop\json daniyal\json\json\obj\Debug\json.csprojResolveAssemblyReference.cache
+C:\Users\asp.APTECHNK\Desktop\json daniyal\json\json\obj\Debug\json.exe
+C:\Users\asp.APTECHNK\Desktop\json daniyal\json\json\obj\Debug\json.pdb
+C:\Users\asp.APTECHNK\Desktop\json_daniyal\json\json\bin\Debug\json.exe.config
+C:\Users\asp.APTECHNK\Desktop\json_daniyal\json\json\obj\Debug\json.exe
+C:\Users\asp.APTECHNK\Desktop\json_daniyal\json\json\obj\Debug\json.pdb
+C:\Users\asp.APTECHNK\Desktop\json_daniyal\json\json\bin\Debug\json.exe
+C:\Users\asp.APTECHNK\Desktop\json_daniyal\json\json\bin\Debug\json.pdb
+C:\Users\asp.APTECHNK\Desktop\json_daniyal\json\json\obj\Debug\json.csprojResolveAssemblyReference.cache

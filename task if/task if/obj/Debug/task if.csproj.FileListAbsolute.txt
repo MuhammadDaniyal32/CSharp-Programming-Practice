@@ -1,0 +1,6 @@
+C:\Users\asp\Desktop\C#\daniyal CSharp\task if\task if\bin\Debug\task if.exe.config
+C:\Users\asp\Desktop\C#\daniyal CSharp\task if\task if\bin\Debug\task if.exe
+C:\Users\asp\Desktop\C#\daniyal CSharp\task if\task if\bin\Debug\task if.pdb
+C:\Users\asp\Desktop\C#\daniyal CSharp\task if\task if\obj\Debug\task if.csprojResolveAssemblyReference.cache
+C:\Users\asp\Desktop\C#\daniyal CSharp\task if\task if\obj\Debug\task if.exe
+C:\Users\asp\Desktop\C#\daniyal CSharp\task if\task if\obj\Debug\task if.pdb

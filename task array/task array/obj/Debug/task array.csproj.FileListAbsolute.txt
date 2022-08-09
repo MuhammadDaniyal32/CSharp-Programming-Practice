@@ -1,0 +1,6 @@
+C:\Users\asp\Desktop\C#\daniyal CSharp\task array\task array\bin\Debug\task array.exe.config
+C:\Users\asp\Desktop\C#\daniyal CSharp\task array\task array\bin\Debug\task array.exe
+C:\Users\asp\Desktop\C#\daniyal CSharp\task array\task array\bin\Debug\task array.pdb
+C:\Users\asp\Desktop\C#\daniyal CSharp\task array\task array\obj\Debug\task array.csprojResolveAssemblyReference.cache
+C:\Users\asp\Desktop\C#\daniyal CSharp\task array\task array\obj\Debug\task array.exe
+C:\Users\asp\Desktop\C#\daniyal CSharp\task array\task array\obj\Debug\task array.pdb

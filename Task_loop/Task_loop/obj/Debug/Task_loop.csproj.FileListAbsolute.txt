@@ -1,0 +1,14 @@
+C:\Users\asp\Desktop\Task_loop\Task_loop\bin\Debug\Task_loop.exe.config
+C:\Users\asp\Desktop\Task_loop\Task_loop\bin\Debug\Task_loop.exe
+C:\Users\asp\Desktop\Task_loop\Task_loop\bin\Debug\Task_loop.pdb
+C:\Users\asp\Desktop\Task_loop\Task_loop\obj\Debug\Task_loop.csprojResolveAssemblyReference.cache
+C:\Users\asp\Desktop\Task_loop\Task_loop\obj\Debug\Task_loop.exe
+C:\Users\asp\Desktop\Task_loop\Task_loop\obj\Debug\Task_loop.pdb
+D:\C# Language Practice\Task_loop\Task_loop\bin\Debug\Task_loop.exe.config
+D:\C# Language Practice\Task_loop\Task_loop\bin\Debug\Task_loop.exe
+D:\C# Language Practice\Task_loop\Task_loop\bin\Debug\Task_loop.pdb
+D:\C# Language Practice\Task_loop\Task_loop\obj\Debug\Task_loop.csproj.AssemblyReference.cache
+D:\C# Language Practice\Task_loop\Task_loop\obj\Debug\Task_loop.csproj.SuggestedBindingRedirects.cache
+D:\C# Language Practice\Task_loop\Task_loop\obj\Debug\Task_loop.csproj.CoreCompileInputs.cache
+D:\C# Language Practice\Task_loop\Task_loop\obj\Debug\Task_loop.exe
+D:\C# Language Practice\Task_loop\Task_loop\obj\Debug\Task_loop.pdb

@@ -1,0 +1,6 @@
+C:\Users\asp\Desktop\C#\daniyal CSharp\abstract task\abstract task\bin\Debug\abstract task.exe.config
+C:\Users\asp\Desktop\C#\daniyal CSharp\abstract task\abstract task\obj\Debug\abstract task.csprojResolveAssemblyReference.cache
+C:\Users\asp\Desktop\C#\daniyal CSharp\abstract task\abstract task\bin\Debug\abstract task.exe
+C:\Users\asp\Desktop\C#\daniyal CSharp\abstract task\abstract task\bin\Debug\abstract task.pdb
+C:\Users\asp\Desktop\C#\daniyal CSharp\abstract task\abstract task\obj\Debug\abstract task.exe
+C:\Users\asp\Desktop\C#\daniyal CSharp\abstract task\abstract task\obj\Debug\abstract task.pdb

@@ -1,0 +1,9 @@
+C:\Users\asp\Desktop\daniyal CSharp\operators\operators\bin\Debug\operators.exe.config
+C:\Users\asp\Desktop\daniyal CSharp\operators\operators\obj\Debug\operators.csprojResolveAssemblyReference.cache
+C:\Users\asp\Desktop\daniyal CSharp\operators\operators\bin\Debug\operators.exe
+C:\Users\asp\Desktop\daniyal CSharp\operators\operators\bin\Debug\operators.pdb
+C:\Users\asp\Desktop\daniyal CSharp\operators\operators\obj\Debug\operators.exe
+C:\Users\asp\Desktop\daniyal CSharp\operators\operators\obj\Debug\operators.pdb
+C:\Users\asp\Desktop\C#\daniyal CSharp\operators\operators\bin\Debug\operators.exe.config
+C:\Users\asp\Desktop\C#\daniyal CSharp\operators\operators\obj\Debug\operators.exe
+C:\Users\asp\Desktop\C#\daniyal CSharp\operators\operators\obj\Debug\operators.pdb

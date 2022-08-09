@@ -1,0 +1,6 @@
+C:\Users\asp\Desktop\C#\daniyal CSharp\Get and Set\Get and Set\bin\Debug\Get and Set.exe.config
+C:\Users\asp\Desktop\C#\daniyal CSharp\Get and Set\Get and Set\bin\Debug\Get and Set.exe
+C:\Users\asp\Desktop\C#\daniyal CSharp\Get and Set\Get and Set\bin\Debug\Get and Set.pdb
+C:\Users\asp\Desktop\C#\daniyal CSharp\Get and Set\Get and Set\obj\Debug\Get and Set.csprojResolveAssemblyReference.cache
+C:\Users\asp\Desktop\C#\daniyal CSharp\Get and Set\Get and Set\obj\Debug\Get and Set.exe
+C:\Users\asp\Desktop\C#\daniyal CSharp\Get and Set\Get and Set\obj\Debug\Get and Set.pdb

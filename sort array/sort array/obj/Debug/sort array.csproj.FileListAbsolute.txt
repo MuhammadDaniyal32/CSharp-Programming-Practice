@@ -1,0 +1,6 @@
+C:\Users\asp\Desktop\C#\daniyal CSharp\sort array\sort array\bin\Debug\sort array.exe.config
+C:\Users\asp\Desktop\C#\daniyal CSharp\sort array\sort array\bin\Debug\sort array.exe
+C:\Users\asp\Desktop\C#\daniyal CSharp\sort array\sort array\bin\Debug\sort array.pdb
+C:\Users\asp\Desktop\C#\daniyal CSharp\sort array\sort array\obj\Debug\sort array.csprojResolveAssemblyReference.cache
+C:\Users\asp\Desktop\C#\daniyal CSharp\sort array\sort array\obj\Debug\sort array.exe
+C:\Users\asp\Desktop\C#\daniyal CSharp\sort array\sort array\obj\Debug\sort array.pdb

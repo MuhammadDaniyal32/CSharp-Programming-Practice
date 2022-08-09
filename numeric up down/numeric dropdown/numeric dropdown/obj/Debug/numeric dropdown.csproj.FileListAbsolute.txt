@@ -1,0 +1,11 @@
+C:\Users\asp.APTECHNK\Desktop\C sharp\class 4\numeric dropdown\numeric dropdown\bin\Debug\numeric dropdown.exe.config
+C:\Users\asp.APTECHNK\Desktop\numeric up down\numeric dropdown\numeric dropdown\bin\Debug\numeric dropdown.exe.config
+C:\Users\asp.APTECHNK\Desktop\numeric up down\numeric dropdown\numeric dropdown\bin\Debug\numeric dropdown.exe
+C:\Users\asp.APTECHNK\Desktop\numeric up down\numeric dropdown\numeric dropdown\bin\Debug\numeric dropdown.pdb
+C:\Users\asp.APTECHNK\Desktop\numeric up down\numeric dropdown\numeric dropdown\obj\Debug\numeric_dropdown.Form1.resources
+C:\Users\asp.APTECHNK\Desktop\numeric up down\numeric dropdown\numeric dropdown\obj\Debug\numeric_dropdown.Properties.Resources.resources
+C:\Users\asp.APTECHNK\Desktop\numeric up down\numeric dropdown\numeric dropdown\obj\Debug\numeric dropdown.csproj.GenerateResource.Cache
+C:\Users\asp.APTECHNK\Desktop\numeric up down\numeric dropdown\numeric dropdown\obj\Debug\numeric dropdown.exe
+C:\Users\asp.APTECHNK\Desktop\numeric up down\numeric dropdown\numeric dropdown\obj\Debug\numeric dropdown.pdb
+C:\Users\asp.APTECHNK\Desktop\numeric up down\numeric dropdown\numeric dropdown\bin\Debug\MetroFramework.dll
+C:\Users\asp.APTECHNK\Desktop\numeric up down\numeric dropdown\numeric dropdown\bin\Debug\MetroFramework.Fonts.dll

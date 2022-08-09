@@ -1,0 +1,10 @@
+C:\Users\asp\Desktop\C#\daniyal CSharp\task loop\task loop\bin\Debug\task loop.exe.config
+C:\Users\asp\Desktop\C#\daniyal CSharp\task loop\task loop\obj\Debug\task loop.csprojResolveAssemblyReference.cache
+C:\Users\asp\Desktop\C#\daniyal CSharp\task loop\task loop\bin\Debug\task loop.exe
+C:\Users\asp\Desktop\C#\daniyal CSharp\task loop\task loop\bin\Debug\task loop.pdb
+C:\Users\asp\Desktop\C#\daniyal CSharp\task loop\task loop\obj\Debug\task loop.exe
+C:\Users\asp\Desktop\C#\daniyal CSharp\task loop\task loop\obj\Debug\task loop.pdb
+D:\C# Language Practice\C#\daniyal CSharp\task loop\task loop\obj\Debug\task loop.csproj.AssemblyReference.cache
+D:\C# Language Practice\C#\daniyal CSharp\task loop\task loop\obj\Debug\task loop.csproj.SuggestedBindingRedirects.cache
+D:\C# Language Practice\C#\daniyal CSharp\task loop\task loop\obj\Debug\task loop.csproj.CoreCompileInputs.cache
+D:\C# Language Practice\C#\daniyal CSharp\task loop\task loop\obj\Debug\task loop.exe

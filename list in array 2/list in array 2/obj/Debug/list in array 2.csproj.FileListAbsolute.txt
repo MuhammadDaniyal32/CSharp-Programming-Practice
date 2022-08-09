@@ -1,0 +1,6 @@
+C:\Users\asp\Desktop\C#\daniyal CSharp\list in array 2\list in array 2\bin\Debug\list in array 2.exe.config
+C:\Users\asp\Desktop\C#\daniyal CSharp\list in array 2\list in array 2\bin\Debug\list in array 2.exe
+C:\Users\asp\Desktop\C#\daniyal CSharp\list in array 2\list in array 2\bin\Debug\list in array 2.pdb
+C:\Users\asp\Desktop\C#\daniyal CSharp\list in array 2\list in array 2\obj\Debug\list in array 2.csprojResolveAssemblyReference.cache
+C:\Users\asp\Desktop\C#\daniyal CSharp\list in array 2\list in array 2\obj\Debug\list in array 2.exe
+C:\Users\asp\Desktop\C#\daniyal CSharp\list in array 2\list in array 2\obj\Debug\list in array 2.pdb

@@ -1,0 +1,6 @@
+C:\Users\asp\Desktop\C#\daniyal CSharp\go to statment\go to statment\bin\Debug\go to statment.exe.config
+C:\Users\asp\Desktop\C#\daniyal CSharp\go to statment\go to statment\bin\Debug\go to statment.exe
+C:\Users\asp\Desktop\C#\daniyal CSharp\go to statment\go to statment\bin\Debug\go to statment.pdb
+C:\Users\asp\Desktop\C#\daniyal CSharp\go to statment\go to statment\obj\Debug\go to statment.csprojResolveAssemblyReference.cache
+C:\Users\asp\Desktop\C#\daniyal CSharp\go to statment\go to statment\obj\Debug\go to statment.exe
+C:\Users\asp\Desktop\C#\daniyal CSharp\go to statment\go to statment\obj\Debug\go to statment.pdb

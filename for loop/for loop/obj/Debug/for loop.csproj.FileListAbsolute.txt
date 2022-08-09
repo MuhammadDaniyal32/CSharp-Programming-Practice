@@ -1,0 +1,12 @@
+C:\Users\asp.APTECHNK\Desktop\for loop\for loop\bin\Debug\for loop.exe.config
+C:\Users\asp.APTECHNK\Desktop\for loop\for loop\bin\Debug\for loop.exe
+C:\Users\asp.APTECHNK\Desktop\for loop\for loop\bin\Debug\for loop.pdb
+C:\Users\asp.APTECHNK\Desktop\for loop\for loop\obj\Debug\for loop.csprojResolveAssemblyReference.cache
+C:\Users\asp.APTECHNK\Desktop\for loop\for loop\obj\Debug\for loop.exe
+C:\Users\asp.APTECHNK\Desktop\for loop\for loop\obj\Debug\for loop.pdb
+\\server1\Students New Storage\1808C1\Tayyab(DISM)\Csharp\for loop\for loop\bin\Debug\for loop.exe.config
+\\server1\Students New Storage\1808C1\Tayyab(DISM)\Csharp\for loop\for loop\obj\Debug\for loop.pdb
+C:\Users\asp\Desktop\for loop\for loop\bin\Debug\for loop.exe.config
+C:\Users\asp\Desktop\for loop\for loop\obj\Debug\for loop.pdb
+C:\Users\asp\Desktop\C#\for loop\for loop\bin\Debug\for loop.exe.config
+C:\Users\asp\Desktop\C#\for loop\for loop\obj\Debug\for loop.pdb

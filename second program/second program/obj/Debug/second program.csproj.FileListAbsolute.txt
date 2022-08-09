@@ -1,0 +1,13 @@
+C:\Users\asp\Desktop\daniyal CSharp\second program\second program\bin\Debug\second program.exe.config
+C:\Users\asp\Desktop\daniyal CSharp\second program\second program\bin\Debug\second program.exe
+C:\Users\asp\Desktop\daniyal CSharp\second program\second program\bin\Debug\second program.pdb
+C:\Users\asp\Desktop\daniyal CSharp\second program\second program\obj\Debug\second program.csprojResolveAssemblyReference.cache
+C:\Users\asp\Desktop\daniyal CSharp\second program\second program\obj\Debug\second program.exe
+C:\Users\asp\Desktop\daniyal CSharp\second program\second program\obj\Debug\second program.pdb
+C:\Users\dani\Desktop\daniyal CSharp\second program\second program\bin\Debug\second program.exe.config
+C:\Users\dani\Desktop\daniyal CSharp\second program\second program\bin\Debug\second program.exe
+C:\Users\dani\Desktop\daniyal CSharp\second program\second program\bin\Debug\second program.pdb
+C:\Users\dani\Desktop\daniyal CSharp\second program\second program\obj\Debug\second program.csprojAssemblyReference.cache
+C:\Users\dani\Desktop\daniyal CSharp\second program\second program\obj\Debug\second program.csproj.CoreCompileInputs.cache
+C:\Users\dani\Desktop\daniyal CSharp\second program\second program\obj\Debug\second program.exe
+C:\Users\dani\Desktop\daniyal CSharp\second program\second program\obj\Debug\second program.pdb

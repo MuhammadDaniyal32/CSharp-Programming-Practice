@@ -1,0 +1,6 @@
+C:\Users\asp\Desktop\C#\daniyal CSharp\Reverse loop\Reverse loop\bin\Debug\Reverse loop.exe.config
+C:\Users\asp\Desktop\C#\daniyal CSharp\Reverse loop\Reverse loop\bin\Debug\Reverse loop.exe
+C:\Users\asp\Desktop\C#\daniyal CSharp\Reverse loop\Reverse loop\bin\Debug\Reverse loop.pdb
+C:\Users\asp\Desktop\C#\daniyal CSharp\Reverse loop\Reverse loop\obj\Debug\Reverse loop.csprojResolveAssemblyReference.cache
+C:\Users\asp\Desktop\C#\daniyal CSharp\Reverse loop\Reverse loop\obj\Debug\Reverse loop.exe
+C:\Users\asp\Desktop\C#\daniyal CSharp\Reverse loop\Reverse loop\obj\Debug\Reverse loop.pdb

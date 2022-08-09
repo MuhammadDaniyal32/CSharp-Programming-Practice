@@ -1,0 +1,5 @@
+C:\Users\asp\Desktop\C#\daniyal CSharp\array\array\bin\Debug\array.exe.config
+C:\Users\asp\Desktop\C#\daniyal CSharp\array\array\bin\Debug\array.exe
+C:\Users\asp\Desktop\C#\daniyal CSharp\array\array\bin\Debug\array.pdb
+C:\Users\asp\Desktop\C#\daniyal CSharp\array\array\obj\Debug\array.exe
+C:\Users\asp\Desktop\C#\daniyal CSharp\array\array\obj\Debug\array.pdb

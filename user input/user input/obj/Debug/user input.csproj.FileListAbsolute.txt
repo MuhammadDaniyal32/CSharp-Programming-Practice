@@ -1,0 +1,12 @@
+C:\Users\asp\Desktop\daniyal CSharp\user input\user input\bin\Debug\user input.exe.config
+C:\Users\asp\Desktop\daniyal CSharp\user input\user input\bin\Debug\user input.exe
+C:\Users\asp\Desktop\daniyal CSharp\user input\user input\bin\Debug\user input.pdb
+C:\Users\asp\Desktop\daniyal CSharp\user input\user input\obj\Debug\user input.csprojResolveAssemblyReference.cache
+C:\Users\asp\Desktop\daniyal CSharp\user input\user input\obj\Debug\user input.exe
+C:\Users\asp\Desktop\daniyal CSharp\user input\user input\obj\Debug\user input.pdb
+C:\Users\asp\Desktop\C#\daniyal CSharp\user input\user input\bin\Debug\user input.exe.config
+C:\Users\asp\Desktop\C#\daniyal CSharp\user input\user input\obj\Debug\user input.exe
+C:\Users\asp\Desktop\C#\daniyal CSharp\user input\user input\obj\Debug\user input.pdb
+C:\Users\asp\Desktop\C#\daniyal CSharp\user input\user input\bin\Debug\user input.exe
+C:\Users\asp\Desktop\C#\daniyal CSharp\user input\user input\bin\Debug\user input.pdb
+C:\Users\asp\Desktop\C#\daniyal CSharp\user input\user input\obj\Debug\user input.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\asp\Desktop\3rd sem\switch statment\switch statment\bin\Debug\switch statment.exe.config
+C:\Users\asp\Desktop\3rd sem\switch statment\switch statment\bin\Debug\switch statment.exe
+C:\Users\asp\Desktop\3rd sem\switch statment\switch statment\bin\Debug\switch statment.pdb
+C:\Users\asp\Desktop\3rd sem\switch statment\switch statment\obj\Debug\switch statment.exe
+C:\Users\asp\Desktop\3rd sem\switch statment\switch statment\obj\Debug\switch statment.pdb
+C:\Users\asp\Desktop\C#\daniyal CSharp\switch statment\switch statment\bin\Debug\switch statment.exe.config
+C:\Users\asp\Desktop\C#\daniyal CSharp\switch statment\switch statment\obj\Debug\switch statment.exe
+C:\Users\asp\Desktop\C#\daniyal CSharp\switch statment\switch statment\obj\Debug\switch statment.pdb

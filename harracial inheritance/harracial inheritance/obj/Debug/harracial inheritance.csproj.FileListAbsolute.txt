@@ -1,0 +1,6 @@
+C:\Users\asp\Desktop\C#\daniyal CSharp\harracial inheritance\harracial inheritance\bin\Debug\harracial inheritance.exe.config
+C:\Users\asp\Desktop\C#\daniyal CSharp\harracial inheritance\harracial inheritance\bin\Debug\harracial inheritance.exe
+C:\Users\asp\Desktop\C#\daniyal CSharp\harracial inheritance\harracial inheritance\bin\Debug\harracial inheritance.pdb
+C:\Users\asp\Desktop\C#\daniyal CSharp\harracial inheritance\harracial inheritance\obj\Debug\harracial inheritance.csprojResolveAssemblyReference.cache
+C:\Users\asp\Desktop\C#\daniyal CSharp\harracial inheritance\harracial inheritance\obj\Debug\harracial inheritance.exe
+C:\Users\asp\Desktop\C#\daniyal CSharp\harracial inheritance\harracial inheritance\obj\Debug\harracial inheritance.pdb
